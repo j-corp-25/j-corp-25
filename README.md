@@ -9,7 +9,7 @@ Blending a rigorous background in finance with my passion for software developme
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [MyPorfolio](http://j-corp-25.github.io/Portfolio/)
-* ✉️  You can contact me at [corpjordy13@gmail.com](mailto:corpjordy13@gmail.com)
+* ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
 * 🚀  I'm currently working on JavaScript30 and Freelance projects
 * 🧠  I'm learning Diving deep into Data Structures and Algorithms (DSA) to enhance problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, love playing dodge-ball and kick-ball.
