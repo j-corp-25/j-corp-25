@@ -11,7 +11,7 @@ Blending a rigorous background in finance with my passion for software developme
 * 🖥️  See my portfolio at [MyPorfolio](http://j-corp-25.github.io/Portfolio/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
 * 🚀  I'm currently working on JavaScript30, Freelance projects and a chatbot using Rasa
-* 🧠  I'm learning Diving deep into Data Structures and Algorithms (DSA) to enhance problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
+* 🧠  I'm learning Data Structures and Algorithms (DSA) to enhance problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, love playing dodge-ball and kick-ball.
 
 ### Technologies Used 
