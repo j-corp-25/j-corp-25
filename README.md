@@ -14,7 +14,7 @@ Blending a rigorous background in finance with my passion for software developme
 * 🧠  I'm learning Data Structures and Algorithms (DSA) to enhance problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, love playing dodge-ball and kick-ball.
 
-### Technologies Used 
+### Technologies I have experience in
 
 
 <p align="left">
