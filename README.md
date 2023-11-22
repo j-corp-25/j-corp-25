@@ -39,8 +39,8 @@ Blending a rigorous background in finance with my passion for software engineeri
 <a href="http://www.github.com/j-corp-25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=j-corp-25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b> CodeWars Stats </b>
-<a href="https://www.codewars.com/users/j-corp-25"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=j-corp-25&cardType=level&bg_color=1c1917&text_color=ffffff" /></a>
 
+![Codewars](https://github.r2v.ch/codewars?user=j-corp-25&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)
 
 <a href="https://github.com/j-corp-25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-corp-25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
