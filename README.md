@@ -15,7 +15,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 * 🧠  I'm learning Data Structures and Algorithms (DSA) to enhance my problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, love playing dodge-ball and kick-ball.
 
-### I have experience in these technologies
+### I have experience in these below technologies
 
 
 <p align="left">
