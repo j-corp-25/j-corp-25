@@ -14,7 +14,10 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
 * 🚀  I'm currently working on JavaScript30, Freelance projects and a chatbot using Rasa.
 * 🧠  I'm learning Data Structures and Algorithms (DSA) to enhance my problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
-* ⚡  Aside from coding, I'm an advocate against poverty, love playing dodge-ball and kick-ball.
+* ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get. I also enjoy playing dodge-ball and kick-ball
+* 🖥️  I also enjoy playing first person shooter games and RPG :)
+
+
 
 ### I have experience in these technologies below
 
