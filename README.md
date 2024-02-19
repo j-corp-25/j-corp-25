@@ -61,8 +61,9 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
   <a href="https://github.com/j-corp-25/GlueTube" align="right">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/j-corp-25/Thrift_Store" align="right">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+ 
+  <a href="https://github.com/j-corp-25/Thrift_Store" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
