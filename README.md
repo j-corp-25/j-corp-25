@@ -51,19 +51,19 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
 <b>Top Repositories I have worked on</b>
 
-<div width="100%" align="center">
-   <a href="https://github.com/j-corp-25/MyJs30" align="center">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<div style="width: 45%; display: flex; justify-content: flex-start;">
+  <a href="https://github.com/j-corp-25/MyJs30" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
   </a>
-  <a href="https://github.com/XLG123/JMAX" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/XLG123/JMAX" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
   </a>
-  <a href="https://github.com/j-corp-25/GlueTube" align="right">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/j-corp-25/GlueTube" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
   </a>
- 
-  <a href="https://github.com/j-corp-25/Thrift_Store" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/j-corp-25/Thrift_Store" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffff&bg_color=1c1917" style="width: 100%;" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+
