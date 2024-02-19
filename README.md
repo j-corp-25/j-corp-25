@@ -53,16 +53,16 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
 <div style="width: 45%; display: flex; justify-content: flex-start;">
   <a href="https://github.com/j-corp-25/MyJs30" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
   </a>
   <a href="https://github.com/XLG123/JMAX" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
   </a>
   <a href="https://github.com/j-corp-25/GlueTube" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
   </a>
   <a href="https://github.com/j-corp-25/Thrift_Store" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffff&bg_color=1c1917" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffff&bg_color=1c1917" style="width: 50%;" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
