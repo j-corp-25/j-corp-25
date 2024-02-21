@@ -49,21 +49,16 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
 <a href="https://github.com/j-corp-25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-corp-25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories I have worked on</b>
+<h2>Top Repositories I have worked on</h2>
+<br/>
 
-<div style="width: 45%; display: flex; justify-content: flex-start;">
-  <a href="https://github.com/j-corp-25/MyJs30" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
-  </a>
-  <a href="https://github.com/XLG123/JMAX" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
-  </a>
-  <a href="https://github.com/j-corp-25/GlueTube" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" style="width: 50%;" />
-  </a>
-  <a href="https://github.com/j-corp-25/Thrift_Store" style="width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffff&bg_color=1c1917" style="width: 50%;" />
-  </a>
+<div style="width: 50%; display: flex; justify-content-between; ">
+<a href="https://github.com/j-corp-25/MyJs30"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a> 
+<a href="https://github.com/XLG123/JMAX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a>
+<a href="https://github.com/j-corp-25/GlueTube"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a> 
+<a href="https://github.com/j-corp-25/Thrift_Store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width="40%" align="center" /></a>
+<a href="https://github.com/j-corp-25/jadafrontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=jadafrontend&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width=40%" align="center"  /></a>
+
 </div>
 <br /><br /><br /><br /><br /><br /><br />
 
