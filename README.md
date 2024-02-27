@@ -8,7 +8,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
  Blending a rigorous  background in finance with my passion for software engineering, I have carved a niche in crafting innovative web applications. Trained at App Academy bootcamp, I've mastered a wide range of tools and languages, including CSS, HTML, Rails, Ruby, MongoDB, Postgres, Express, React, JavaScript, and Websockets. From developing a dynamic stock visualization webapp using vanilla JS to building collaborative real-time chat applications, my projects reflect a fusion of financial insights and advanced coding skills. As I embark on this tech journey, I remain committed to solving complex challenges, optimizing user experiences, and contributing to teams with my unique blend of skills and perspectives.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in New York 
 
 * 🖥️  See my portfolio at [MyPorfolio](http://j-corp-25.github.io/Portfolio/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
