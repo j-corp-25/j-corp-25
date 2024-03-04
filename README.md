@@ -52,7 +52,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 <h2>Top Repositories I have worked on</h2>
 <br/>
 
-<div style="width: 50%; display: flex; justify-content-between; ">
+<div style="width: 75%; display: flex; justify-content-between; ">
 <a href="https://github.com/j-corp-25/MyJs30"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=MyJs30&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a> 
 <a href="https://github.com/XLG123/JMAX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a>
 <a href="https://github.com/j-corp-25/GlueTube"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="40%" align="center" /></a> 
