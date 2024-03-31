@@ -29,7 +29,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
 ### LeetCode Progress
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=j-corp-25&theme=dark)](https://github.com/j-corp-25/leetcode-stats)
+![LeetCode stats](https://leetcard.jacoblin.cool/j-corp-25?theme=dark&font=ABeeZee)
 
 ### LeetCode Badges
 
