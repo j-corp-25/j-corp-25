@@ -33,7 +33,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 
 ### LeetCode Badges
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=j-corp-25&theme=dark" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=j-corp-25&theme=dark&border=border" alt="LeetCode Badges"/>
 
 ### Socials
 
