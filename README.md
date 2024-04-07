@@ -1,4 +1,4 @@
- Hi, My name is Jordy. Former Analyst transitioning into Tech
+ Hello, My name is Jordy. Former Analyst transitioning into Tech
 ======================================================================================================================================
 
 Software Developer with a Distinctive Finance Background | Specializing in Modern Technologies and Frameworks
