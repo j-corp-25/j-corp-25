@@ -15,7 +15,7 @@ Software Developer with a Distinctive Finance Background | Specializing in Moder
 * 🚀  I'm currently working on a client project for a small business using Strapi and NextJs: <a href="https://github.com/j-corp-25/jadafrontend">  Repo 
 * 🧠  I'm learning Data Structures and Algorithms (DSA) to enhance my problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get.
-* 🌎  Currently volunteering for [Onecommunity](https://www.onecommunityglobal.org/), which is about creating open source and sustainable solutions for global transformation through collaborative and holistic approaches to living and technology.
+* 🌎  I am currently volunteering for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my PRs!
 * 🖥️  I also enjoy playing first person shooter games and RPG :)
 
 
