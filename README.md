@@ -1,7 +1,7 @@
  Hello, My name is Jordy. Former Analyst transitioning into Tech
 ======================================================================================================================================
 
-Software Developer with a Distinctive Finance Background | Specializing in Modern Technologies and Frameworks
+Software Engineer with a Distinctive Finance Background | Specializing in Modern Technologies and Frameworks
 
 -------------------------------------------------------------------------------------------------- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-corp-25&label=Profile%20views&color=0e75b6&style=flat" alt="j-corp-25" /> </p>
