@@ -6,8 +6,7 @@ Software Engineer with a Distinctive Finance Background | Specializing in Modern
 -------------------------------------------------------------------------------------------------- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-corp-25&label=Profile%20views&color=0e75b6&style=flat" alt="j-corp-25" /> </p>
 
- Blending a rigorous  background in finance with my passion for software engineering, I have carved a niche in crafting innovative web applications. Trained at App Academy bootcamp, I've mastered a wide range of tools and languages, including CSS, HTML, Rails, Ruby, MongoDB, Postgres, Express, React, JavaScript, and Websockets. From developing a dynamic stock visualization webapp using vanilla JS to building collaborative real-time chat applications, my projects reflect a fusion of financial insights and advanced coding skills. As I embark on this tech journey, I remain committed to solving complex challenges, optimizing user experiences, and contributing to teams with my unique blend of skills and perspectives.
-
+Blending a rigorous background in finance with my passion for software engineering, I have carved a niche in crafting innovative web applications. My training at App Academy has equipped me with a proficient command of a variety of programming tools and languages, including CSS, HTML, Ruby on Rails, MongoDB, PostgreSQL, Express, React, JavaScript, and Websockets.
 * 🌍  I'm based in New York 
 
 * 🖥️  See my portfolio at [MyPorfolio](http://j-corp-25.github.io/Portfolio/)
