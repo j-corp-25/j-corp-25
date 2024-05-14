@@ -17,6 +17,7 @@ Blending a rigorous background in finance with my passion for software engineeri
 * 🌎  I am currently volunteering for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my [PRs](https://github.com/OneCommunityGlobal/HGNRest/pulls?q=Jordy)
   
 * 🖥️  I also enjoy playing first person shooter games and RPG :)
+* During my pass time I enjoy hiking with my dog :)
 
 
 
