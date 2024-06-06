@@ -1,4 +1,4 @@
- Hello, My name is Jordy. Former AP Analyst transitioning into Tech
+ Hello, My name is Jordy. Former AP Analyst working in Tech
 ======================================================================================================================================
 
 Software Engineer with a Distinctive Finance Background | Specializing in Modern Technologies and Frameworks
