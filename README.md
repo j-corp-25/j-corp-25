@@ -1,4 +1,4 @@
- Hello, My name is Jordy. Former AP Analyst working in QA
+ Hello, My name is Jordy. Former AP Analyst working as a QAE
 ======================================================================================================================================
 
 Software Engineer with a Distinctive Finance Background | Specializing in Modern Technologies and Frameworks
