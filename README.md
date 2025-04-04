@@ -8,14 +8,12 @@ Software Engineer with a Distinctive Finance Background | Specializing in Modern
 
 Blending a rigorous background in finance with my passion for software engineering, I have carved a niche in crafting innovative web applications. My training at App Academy has equipped me with a proficient command of a variety of programming tools and languages, including CSS, HTML, Ruby on Rails, MongoDB, PostgreSQL, Express, React, JavaScript, and Websockets.
 * 🌍  I am based in New York City
-* 🖥️  See my portfolio at [MyPorfolio](http://j-corp-25.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPorfolio](https://jordyscodehub.com/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
 * 🌎  I am currently volunteering for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my [PRs](https://github.com/OneCommunityGlobal/HGNRest/pulls?q=Jordy)
-* 🚀  I am currently working on a client project for a small business using Strapi and NextJs: <a href="https://github.com/j-corp-25/jadafrontend">  Repo 
-* 🧠  I am learning Data Structures and Algorithms (DSA) to enhance my problem-solving skills. Also, mastering coding patterns to tackle complex challenges more efficiently.
 * ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get.
-* 🖥️  I also enjoy playing first person shooter games and RPG :)
-* 🥾  During my pass time I enjoy hiking with my dog
+* 🖥️  I also enjoy playing first person shooter games and RPGs :)
+* 🥾  During my pass time I enjoy hiking with my dog and eating lots of food 
 
 
 
