@@ -10,7 +10,7 @@ Blending a rigorous background in finance with my passion for software engineeri
 * 🌍  I am based in New York City
 * 🖥️  See my portfolio at [MyPorfolio](https://jordyscodehub.com/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
-* 🌎  I am currently volunteering for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my [PRs](https://github.com/OneCommunityGlobal/HGNRest/pulls?q=Jordy)
+* 🌎  Former volunteer for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my [PRs](https://github.com/OneCommunityGlobal/HGNRest/pulls?q=Jordy)
 * ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get.
 * 🖥️  I also enjoy playing first person shooter games and RPGs :)
 * 🥾  During my pass time I enjoy hiking with my dog and eating lots of food 
