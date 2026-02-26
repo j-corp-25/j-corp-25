@@ -51,15 +51,5 @@ Blending a rigorous background in finance with my passion for software engineeri
 
 <a href="https://github.com/j-corp-25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-corp-25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<h2>Top Repositories I have worked on</h2>
-<br/>
-
-<div style="width: 100%; display: flex; justify-content-between; ">
-<a href="https://github.com/XLG123/JMAX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=XLG123&repo=JMAX&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="65%" align="center" /></a>
-<a href="https://github.com/j-corp-25/GlueTube"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=GlueTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en" width="65%" align="center" /></a> 
-<a href="https://github.com/j-corp-25/Thrift_Store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=Thrift_Store&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width="65%" align="center" /></a>
-<a href="https://github.com/j-corp-25/jadafrontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=j-corp-25&repo=jadafrontend&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width="65%" align="center"  /></a>
-
-</div>
 <br /><br /><br /><br /><br /><br /><br />
 
