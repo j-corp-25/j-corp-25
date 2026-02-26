@@ -49,7 +49,5 @@ Blending a rigorous background in finance with my passion for software engineeri
 
 ![Codewars](https://github.r2v.ch/codewars?user=j-corp-25&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)
 
-<a href="https://github.com/j-corp-25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-corp-25&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <br /><br /><br /><br /><br /><br /><br />
 
