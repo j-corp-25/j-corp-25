@@ -37,11 +37,11 @@ Blending a rigorous background in finance with my passion for software engineeri
 
 <p align="left">
   <a href="https://discord.com/users/jcorp25" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="64" height="64" />
   </a>
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jcorporan/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="64" height="64" />
   </a>
 </p>
 
@@ -49,5 +49,5 @@ Blending a rigorous background in finance with my passion for software engineeri
 
 ![Codewars](https://github.r2v.ch/codewars?user=j-corp-25&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)
 
-<br /><br /><br /><br /><br /><br /><br />
+
 
