@@ -11,13 +11,9 @@ Blending a rigorous background in finance with my passion for software engineeri
 * 🖥️  See my portfolio at [MyPorfolio](https://jordyscodehub.com/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
 * 🌎  Former volunteer for [Onecommunity](https://www.onecommunityglobal.org/). I am part of the unit testing team. Check some of my [PRs](https://github.com/OneCommunityGlobal/HGNRest/pulls?q=Jordy)
-* ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get and enjoy lifting.
+* ⚡  Aside from coding, I'm an advocate against poverty, I love volunteering any chance I get and enjoy lifting weights.
 * 🖥️  I also enjoy playing first person shooter games and RPGs :)
 * 🥾  During my pass time I enjoy hiking with my dog and eating lots of fooood 
-
-
-
-### I have experience in these technologies below
 
 
 
