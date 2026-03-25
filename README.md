@@ -5,8 +5,6 @@ Software Engineer with a Distinctive Finance Background | Specializing in Modern
 
 -------------------------------------------------------------------------------------------------- 
 
-
-Blending a rigorous background in finance with my passion for software engineering, I have carved a niche in crafting innovative web applications. My training at App Academy has equipped me with a proficient command of a variety of programming tools and languages, including CSS, HTML, Ruby on Rails, MongoDB, PostgreSQL, Express, React, JavaScript, and Websockets.
 * 🌍  I am based in New York City
 * 🖥️  See my portfolio at [MyPorfolio](https://jordyscodehub.com/)
 * ✉️  You can contact me at [corporan.jordy@gmail.com](mailto:corporan.jordy@gmail.com)
